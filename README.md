@@ -1,2 +1,0 @@
-# edutic
-ova eductic1
